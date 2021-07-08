@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ztaylorDev/rpslsproject/issues"
   },
-  "homepage": "https://github.com/ztaylorDev/rpslsproject#readme"
+  "homepage": "https://github.com/ztaylorDev/rpslsproject#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
