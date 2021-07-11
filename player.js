@@ -5,7 +5,7 @@ class Player{
         this.name = name
         this.weapons = ['rock', 'paper', 'scissors', 'lizard', 'spock']
         this.score = 0
-        this.choice;
+        this.choice = this.choice;
     }
 
     chooseWeapon(){

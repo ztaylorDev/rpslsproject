@@ -1,6 +1,6 @@
-const Game = require('./Game');
+const {Game} = require('./Game');
 
 
 
-let game = new Game("RPSLS");
+const game = new Game("RPSLS");
 game.runGame();
